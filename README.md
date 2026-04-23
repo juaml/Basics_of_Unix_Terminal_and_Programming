@@ -22,8 +22,7 @@ This course is your **course** in modern computational tools! By the end, you’
 
 🔗 **Full Program:** [Google Doc](https://docs.google.com/document/d/1NmnwMeq4K0jXag8YHFwPsXxNvh9A8cYIud2GeMeE5HI/edit?usp=sharing)
 
-📂 **Slides & Materials:** [OneDrive](https://1drv.ms/f/s!AheL7mhMU4mLg-gLSFqaBT1buPs9nw?e=lVjXBL)  
-📂 **Alternative link to the slides:** [Sciebo](https://fz-juelich.sciebo.de/s/qAPklt3WOWS2RAS)  
+📂 **Slides & Materials:** [Sciebo](https://fz-juelich.sciebo.de/s/qAPklt3WOWS2RAS) 
 
 ---
 
